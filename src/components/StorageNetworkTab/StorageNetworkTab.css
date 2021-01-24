@@ -1,0 +1,30 @@
+.StorageNetworkTab {
+    padding: 0.5rem;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 1%;
+    width: 95%;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+}
+
+.heading {
+    margin-bottom: 0.5rem;
+    text-align: center;
+}
+
+.textField {
+    /* width: 50%; */
+}
+
+.slider{
+    width: 18rem;
+    padding: 2%;
+}

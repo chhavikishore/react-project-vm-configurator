@@ -1,0 +1,21 @@
+.InstanceTab {
+    height: 27rem;
+}
+
+.backButton{
+    background-color: black;
+    color: white;
+}
+
+.configButtons {
+    justify-content: space-around;
+    display: flex;
+    padding: 2% 0%;
+}
+
+.footer {
+    margin-top: 8rem;
+    margin-left: 2rem;
+    display: flex;
+    justify-content: flex-end;
+}

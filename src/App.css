@@ -1,0 +1,30 @@
+body {
+  background: #E5E5E5;
+}
+
+.header {
+  text-align: center;
+}
+.body {
+ display: flex;
+ padding : 1% 2%;
+}
+
+.tabView {
+  width: 80%;
+}
+.priceCalculator {
+ width: 20%;
+}
+
+.titleRegion {
+  display: flex;
+}
+
+.title {
+  width: 85%;
+}
+
+.region{
+  width: 15%;
+}

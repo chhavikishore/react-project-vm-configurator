@@ -1,0 +1,17 @@
+.CostEstimation {
+    padding : 0% 4%
+}
+
+.totalPrice{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.details {
+    display: flex;
+    flex-direction: row;
+}
+
+.vmName {
+    width: 80%;
+}

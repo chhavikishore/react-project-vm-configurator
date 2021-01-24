@@ -1,0 +1,21 @@
+.ImageTab {
+    padding: 0.5rem;
+}
+
+.vmCard{
+    display: flex;
+}
+
+.cardImage {
+    width: 20%
+}
+
+.vmCardContent{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+}
+
+.vmCardRadioButton {
+    width: 20%;
+}
